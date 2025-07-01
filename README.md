@@ -12,7 +12,7 @@
   
   <ul style="list-style: none; padding: 0;">
     <li>👨‍💻 Portfolio: <a href="https://portfolio-sigma-eosin-73.vercel.app">Pushkar Kumar Saini</a></li>
-    <li>📄 Resume: <a href="https://drive.google.com/file/d/16LCT6Leg3Ykz4OHBHtqAVmbe63Y5UYcd/view?usp=drive_link">Pushkar_Kumar_Saini_RESUME</a></li>
+    <li>📄 Resume: <a href="https://drive.google.com/file/d/1TNaxCf9d-qVBDauZe95i6uFNMDXniNzV/view?usp=sharing">Pushkar_Kumar_Saini_RESUME</a></li>
     <li>📫 Reach Me: <a href="https://mail.google.com/mail/?view=cm&to=pushkarkumarsaini2006@gmail.com" target="_blank"><b>pushkarkumarsaini2006@gmail.com</b></a></li>
   </ul>
 
