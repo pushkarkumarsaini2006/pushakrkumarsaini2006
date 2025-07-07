@@ -32,7 +32,7 @@
 
   <!-- GitHub Profile Trophy -->
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=pushkarkumarsaini2006&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Trophy" />
+  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-davevad93s-projects.vercel.app/?username=davevad93&theme=radical&rank=-B&column=-1" alt="davevad93"/></a></p>
 
   <!-- Technologies and Tools -->
   <h3>Languages and Tools:</h3>
